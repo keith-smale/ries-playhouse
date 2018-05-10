@@ -1,6 +1,6 @@
 <section class="container-fluid" data-bg-img-src="{{ page.image.src | prepend: site.baseurl }}"
-    style="background-image: url(&quot;{{ page.image.src | prepend: site.baseurl }}&quot;); padding:80px 0px; margin-top:80px;">
-    <div class="container text-center g-pos-rel g-z-index-1 pb-5">
+    style="background-image: url(&quot;{{ page.image.src | prepend: site.baseurl }}&quot;); padding:80px 0px; margin-top:80px; background-position: center; background-repeat: no-repeat; background-size: cover; height:100%;">
+    <div class="container text-center position-relative g-z-index-1 pb-5">
         <div class="row d-flex justify-content-center align-content-end flex-wrap g-min-height-300">
             <div class="col-lg-7 mt-auto">
                 <div class="mb-5">
@@ -8,13 +8,13 @@
                     <h1 class="text-white font-weight-bold mb-3">{{ assets["page.image.src"].width }}</h1>
                     <p class="lead g-color-white-opacity-0_6">{{ page.abstract }}</p>
                 </div>
-                <span class="text-white font-weight-normal" style="font-size:18px; opacity: 0.7;">{{ page.date | date_to_string }}</span>
+                <span class="text-white font-weight-normal" style="font-size:18px; opacity: 0.8;">{{ page.date | date_to_string }}</span>
             </div>
         </div>
     </div>
 </section>
 
-<section class="container pt-5 blog">
+<section class="container p-5 blog">
     <div class="row justify-content-center">
         <div class="col-lg-9">
             <div>
