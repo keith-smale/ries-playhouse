@@ -1,0 +1,30 @@
+---
+layout: default
+title: Policies
+---
+
+<section style="padding:150px 0px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 mx-auto">
+                <h2 class="text-center">Policies</h2>
+                <p class="lead">Below are my current policies. Please select one to read it.</p> 
+                <p class="lead">My polices are reviewed regularly and are updated as required.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="padding:50px 0px;">
+    <div class="container">
+        {% for post in site.posts %} 
+        {% include policy.html %}
+        {% endfor %}
+    </div>
+</section>
+
+</br>
+</br>
+<p>here is some content</p>
+</br>
+</br>
