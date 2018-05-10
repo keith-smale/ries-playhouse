@@ -1,11 +1,7 @@
 ---
 layout: policy
-title:  Rie's Playhouse
-date:   2018-04-28 17:39:27 +0100
-name: Opening
-description: The opening of Rie's Playhouse
-image:
-   src: /assets/img/boywithcamera.jpg
+title:  "Welcome to Jekyll!"
+date:   2018-04-27 17:39:27 +0100
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
