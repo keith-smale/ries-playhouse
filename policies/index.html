@@ -17,9 +17,10 @@ title: Policies
 
 <section style="padding:50px 0px;">
     <div class="container">
-        {% for post in site.posts %} 
-        {% include policy.html %}
-        {% endfor %}
+        <div class="grid row mb-5">
+            <div class="grid-sizer col-xs-4"></div>
+            {% for post in site.posts %} {% include policy.html %} {% endfor %}
+        </div>
     </div>
 </section>
 
