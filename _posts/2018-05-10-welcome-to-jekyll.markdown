@@ -1,15 +1,13 @@
 ---
 layout: policy
-title:  Photo Policy
+title:  Template Policy
 date:   2018-05-10 17:39:27 +0100
 name: Opening
 description: The opening of Rie's Playhouse
 image:
    src: /assets/img/boywithcamera.jpg
-categories: jekyll update
+categories: policy
 ---
-
-## Photo Policy
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
