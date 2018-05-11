@@ -1,24 +1,20 @@
 {% if post.image.src and post.image.src contains '://' %} 
   {% assign postImgUrl = post.image.src %} 
-{% elsif post.image.src%} 
+{% elsif post.image.src %} 
   {% assign postImgUrl = post.image.src | prepend: site.baseurl %} 
 {% else %} 
   {% assign postImgUrl = site.default_post_image | prepend: site.baseurl %} 
 {% endif %}
 
-<div class="masonry-grid-item col-sm-6 col-lg-4 mb-2">
+<div class="grid-item col-sm-6 col-lg-4 mb-2">
   <!-- Blog Grid Modern Blocks -->
   <article class="shadow">
     <a href="{{ post.url | prepend: site.baseurl }}">
       <img class="bg-light img-fluid w-100 rounded-top" src="{{ postImgUrl }}" alt="{{ post.title }}">
     </a>
     <div class="bg-light p-3 rounded-bottom">
-     <!--  <ul class="list-inline g-color-gray-dark-v4 g-font-weight-600 g-font-size-12">
-        <li class="list-inline-item">publications-post.date_title post.date date_to_string</li>
-      </ul> -->
-
-      <h2 class="h5 text-black font-weight-bold mb-4">
-        <a class="u-link-v5 text-black g-color-primary--hover g-cursor-pointer" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <h2 class="h4">
+        <a class="badge badge-pill badge-info" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
     </div>
   </article>
