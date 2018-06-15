@@ -1,0 +1,22 @@
+{% if post.image.src and post.image.src contains '://' %} 
+  {% assign postImgUrl = post.image.src %} 
+{% elsif post.image.src %} 
+  {% assign postImgUrl = post.image.src | prepend: site.baseurl %} 
+{% else %} 
+  {% assign postImgUrl = site.default_post_image | prepend: site.baseurl %} 
+{% endif %}
+
+<div class="grid-item col-sm-6 col-lg-4 mb-4">
+  <!-- Blog Grid Modern Blocks -->
+  <article class="shadow">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <img class="bg-light img-fluid w-100 rounded-top" src="{{ postImgUrl }}" alt="{{ post.title }}">
+    </a>
+    <div class="bg-light p-3 rounded-bottom">
+      <h2 class="text-center h4">
+        <a class="badge badge-pill badge-info" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </div>
+  </article>
+  <!-- End Blog Grid Modern Blocks -->
+</div>
