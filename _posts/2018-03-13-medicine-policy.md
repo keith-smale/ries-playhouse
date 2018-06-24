@@ -13,7 +13,7 @@ As your childcare provider I will ensure that I implement an effective procedure
 
 <br>
 
-#### Procedures
+#### Procedure
 I will keep a written record of a child’s need for medication and ask parents to update regularly.
 
 I will keep written records of all medicines administered to children in my care.
@@ -62,8 +62,7 @@ All consent forms and completed records will be stored securely in accordance wi
 
 **This policy supports the following requirements and standards:**
 
-**England**
-
-Meeting the Early Years Foundation Stage Safeguarding and Welfare Requirements.
+**England**  
+   Meeting the Early Years Foundation Stage Safeguarding and Welfare Requirements.  
 
 **Health, Medicines**
