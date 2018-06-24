@@ -33,8 +33,6 @@ I will promote the British values of democracy, rule of law, individual liberty 
 
 I will be proactive in providing care to all children regardless of their individual needs, and consider reasonable adjustments to equipment and routines where necessary.
 
-##### IS THE BIT BELOW NEEDED? SEEMS LIKE IT'S FROM THE MEDICINE POLICY
-
 I am happy to give medication, but where this requires medical or technical knowledge I must have training by a healthcare professional before administering this.
 
 I will regularly review, monitor and evaluate my practice and keep up to date by attending relevant training.
