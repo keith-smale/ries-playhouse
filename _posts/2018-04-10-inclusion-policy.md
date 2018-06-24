@@ -63,6 +63,4 @@ I will regularly review, monitor and evaluate my practice and keep up to date by
 Meeting the Early Years Foundation Stage Safeguarding and Welfare Requirements Special Educational Needs
 
 
-**Learning and Development Requirements**
-
-None
+**Learning and development requirements**
