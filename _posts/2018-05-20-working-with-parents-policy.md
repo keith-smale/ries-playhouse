@@ -5,7 +5,7 @@ date:   2018-05-20 17:39:27 +0100
 name: Working with Parents
 description: Policy about Working with Parents
 image:
-   src: /assets/img/buildingblocks.jpg
+   src: /assets/img/parents.jpg
 categories: policies
 ---
 
