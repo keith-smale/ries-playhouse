@@ -13,7 +13,7 @@ I make sure that I actively include all children and their families, regardless 
 
 <br>
 
-#### Procedure (how I put the statement into practice)
+#### Procedure
 
 I provide a range of challenging and enjoyable opportunities for each child to learn and develop to their full potential, taking into account age and stage of development, gender, ethnicity, religion, home language, and ability.
 
@@ -56,9 +56,7 @@ I will regularly review, monitor and evaluate my practice and keep up to date by
 
 **This policy supports the following requirements and standards:**
 
-**England**
-
-Meeting the Early Years Foundation Stage Safeguarding and Welfare Requirements Special Educational Needs
-
+**England**  
+   Meeting the Early Years Foundation Stage Safeguarding and Welfare Requirements Special Educational Needs  
 
 **Learning and development requirements**
