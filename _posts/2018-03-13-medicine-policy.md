@@ -5,7 +5,7 @@ date:   2018-03-13 17:39:27 +0100
 name: Medicine
 description: A policy covering the provision of medication to minded children.
 image:
-   src: /assets/img/buildingblocks.jpg
+   src: /assets/img/medicine.jpg
 categories: policies
 ---
 
