@@ -5,7 +5,7 @@ date:   2018-05-06 17:39:27 +0100
 name: uncollected child
 description: Policy if a child is not collected
 image:
-   src: /assets/img/parents.jpg
+   src: /assets/img/unhappy-kid.jpg
 categories: policies
 ---
 

@@ -5,7 +5,7 @@ date:   2018-05-20 17:39:27 +0100
 name: accident emergency policy
 description: Accident and Emergency Policy
 image:
-   src: /assets/img/parents.jpg
+   src: /assets/img/ambulance.jpg
 categories: policies
 ---
 
@@ -37,7 +37,7 @@ If I, or any of my own children have an accident, I will arrange for the nearest
 
 I will do my best at all times to make sure all children in my care are safe, reassured and kept calm.
 
-Accidents Off Site:  
+*Accidents Off Site:*   
   I will carry parents’ contact details with me, on my mobile phone, when I am away from my home, in order to follow procedures above should an accident occur off site.  
   I will take a small first aid kit with me when away from home.  
 
@@ -62,11 +62,11 @@ Should an emergency occur that requires me to leave the setting, the following p
 + I will contact the parents and let them know the situation
 + If I have to take the children to another setting (for example to the home of my emergency back-up cover) then I will contact the parents and ask them to collect their child as soon as possible.
 
-Other Emergencies:  
+*Other Emergencies:*  
   Should any other emergency occur (such as a terrorist attack, or a member of my family becoming ill in my home) I will contact parents as soon as possible. I expect that parents will also contact me in the event of any accident or emergency which may befall them.  
   Should it not be possible for parents to contact me, I will keep the children safe until such time as parents can reach me.  
 
-Recording:  
+*Recording:*  
   I will record all details in my accidents & incident book, and make these available for parents to sign and provide a copy for parents. I will ensure that all completed forms are stored in accordance with my confidentiality policy.  
   If the accident is significant e.g. if a child is taken to hospital for a broken bone, I will inform Ofsted, the local child protection agency, the Health and Safety Executive and my insurance company as soon as is reasonably practicable, but in any event within 14 days of the accident occurring.  
 
