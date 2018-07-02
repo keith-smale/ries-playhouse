@@ -36,7 +36,7 @@ I offer funded spaces either term time only or using stretched funding – which
 
 I claim funding from the local authority for your child after having seen evidence to verify their date of birth at our initial meeting. Parents will be required to fully complete a Parent Declaration Form in order for me to claim any funding and deliver the funded care.
 
-For more information on all entitlements, and to check eligibility criteria please visit [www.childcarechoices.gov.uk](https://www.childcarechoices.gov.uk).
+For more information on all entitlements, and to check eligibility criteria please visit [www.childcarechoices.gov.uk](https://www.childcarechoices.gov.uk){:target="_blank"}.
 
 ###### **Attendance During Funded Sessions**
 

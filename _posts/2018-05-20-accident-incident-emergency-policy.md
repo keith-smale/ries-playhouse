@@ -20,7 +20,9 @@ I can administer basic first-aid treatment, and my first-aid box is clearly labe
 I hold written permission from parents within the Child Record Form for each individual child, to seek emergency treatment for their child if it is needed.
 
 I also have an arrangement with another registered childminder/responsible adult to provide emergency back-up cover if necessary, details below.
-Procedure (how I will put the statement into practice)
+
+
+##### Procedure
 
 If there is an accident to a minded child or my own children:
 + First, I reassure the injured child while making sure that the other children in my care are safe. This may mean strapping a baby in a buggy or sitting an older child somewhere safe where I can see them.

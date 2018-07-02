@@ -18,7 +18,7 @@ If there is a child in my setting who becomes ill whilst in my care, or whom I b
 + Ensure the child is excluded from my setting until they have been well for 48 hours,
 or in accordance with Health Authority guidelines.
 
-If I believe a child in my setting is suffering from a disease or illness which requires notification to the authorities, I will inform the parents/guardians of my concerns and act on advice given by Public Health England (details of which can be found at [https://www.gov.uk/government/organisations/public-health-england](https://www.gov.uk/government/organisations/public-health-england)) as to when they will be able to return to my setting. I will also inform Ofsted of any action taken.
+If I believe a child in my setting is suffering from a disease or illness which requires notification to the authorities, I will inform the parents/guardians of my concerns and act on advice given by Public Health England (details of which can be found at [https://www.gov.uk/government/organisations/public-health-england](https://www.gov.uk/government/organisations/public-health-england){:target="_blank"}) as to when they will be able to return to my setting. I will also inform Ofsted of any action taken.
 
 I make parents aware of my sickness exclusion policy and keep a record of the arrangements for the exclusion of a child should they become ill whilst in my setting.
 

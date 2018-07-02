@@ -11,7 +11,7 @@ categories: policies
 
 As a childminder, I am the lead safeguarding practitioner for my setting.
 
-My first responsibility and priority is towards the children in my care. If I have any cause for concern I will report it to the relevant bodies, following the Local Safeguarding Children Board (LSCB) procedures. The name of our LSCB is the **Southend-on-Sea Local Safeguarding Children Board** and the LSCB procedures can be found at [www.safeguardingsouthend.co.uk/children](https://www.safeguardingsouthend.co.uk/children).
+My first responsibility and priority is towards the children in my care. If I have any cause for concern I will report it to the relevant bodies, following the Local Safeguarding Children Board (LSCB) procedures. The name of our LSCB is the **Southend-on-Sea Local Safeguarding Children Board** and the LSCB procedures can be found at [www.safeguardingsouthend.co.uk/children](https://www.safeguardingsouthend.co.uk/children){:target="_blank"}.
 
 Our Local Authority Designated Officer (LADO) for safeguarding is Allison Francis – 01702 534539
 

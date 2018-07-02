@@ -45,7 +45,7 @@ complaint, including any action taken.
 
 If the complaint cannot be resolved or if the complaint is of a serious nature and you feel you cannot discuss it with me, please contact Ofsted on **0300 123 1231**.
 
-Ofsted produces guidance on concerns and complaints about childminders and childcare providers. This is available on the [Ofsted website](https://www.gov.uk/government/organisations/ofsted) and provides guidance on the complainant’s right to contact Ofsted.
+Ofsted produces guidance on concerns and complaints about childminders and childcare providers. This is available on the [Ofsted website](https://www.gov.uk/government/organisations/ofsted){:target="_blank"} and provides guidance on the complainant’s right to contact Ofsted.
 
 <table class="table table-bordered mt-5 mb-5">
   <tbody>
