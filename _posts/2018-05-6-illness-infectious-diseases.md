@@ -5,7 +5,7 @@ date:   2018-05-06 17:39:27 +0100
 name: illness
 description: A policy covering illness & infectios diseases.
 image:
-   src: /assets/img/ambulance.jpg
+   src: /assets/img/girl-ill.jpg
 categories: policies
 ---
 
