@@ -5,7 +5,7 @@ date:   2018-05-06 17:39:27 +0100
 name: Safeguarding
 description: A policy covering the Safeguarding of minded children.
 image:
-   src: /assets/img/boywithcamera.jpg
+   src: /assets/img/boys.jpg
 categories: policies
 ---
 

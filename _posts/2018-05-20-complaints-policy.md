@@ -5,7 +5,7 @@ date:   2018-05-20 17:39:27 +0100
 name: complaints
 description: Policy about Complaints
 image:
-   src: /assets/img/parents.jpg
+   src: /assets/img/pen.jpg
 categories: policies
 ---
 
