@@ -1,9 +1,9 @@
 ---
 layout: policy
-title:  Behavior Policy
+title:  Behaviour Policy
 date:   2018-05-06 17:39:27 +0100
-name: Behavior
-description: A policy covering the Behavior of minded children.
+name: Behaviour
+description: A policy covering the Behaviour of minded children.
 image:
    src: /assets/img/boywithcamera.jpg
 categories: policies
