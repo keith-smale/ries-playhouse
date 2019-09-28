@@ -54,8 +54,12 @@ All consent forms and completed records will be stored securely in accordance wi
       <td>13th March 2018</td>
     </tr>
     <tr>
-      <th scope="row">Date the Policy is Due for Review</th>
+      <th scope="row">Date the Policy was Last Reviewed</th>
       <td>13th March 2019</td>
+    </tr>
+    <tr>
+      <th scope="row">Date the Policy is Due for Review</th>
+      <td>13th March 2020</td>
     </tr>
   </tbody>
 </table>

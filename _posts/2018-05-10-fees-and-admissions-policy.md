@@ -93,8 +93,12 @@ For further information see my illness and infectious diseases policy and/or ask
       <td>20th May 2018</td>
     </tr>
     <tr>
-      <th scope="row">Date the Policy is Due for Review</th>
+      <th scope="row">Date the Policy was Last Reviewed</th>
       <td>20th May 2019</td>
+    </tr>
+    <tr>
+      <th scope="row">Date the Policy is Due for Review</th>
+      <td>20th May 2020</td>
     </tr>
   </tbody>
 </table>
