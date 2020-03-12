@@ -42,7 +42,6 @@ I ensure that any animals on the premises are safe to be around children and do 
 
 I ensure that litter trays and pet food dishes are kept away from children.
 
-I have read and understand the illness and infectious diseases policy.
 
 <table class="table table-bordered mt-5 mb-5">
   <tbody>
