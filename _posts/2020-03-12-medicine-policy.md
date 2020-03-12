@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Medicine Policy
-date:   2018-03-13 17:39:27 +0100
+date:   2020-03-12 12:39:27 +0100
 name: Medicine
 description: A policy covering the provision of medication to minded children.
 image:
@@ -29,7 +29,7 @@ If the administration of prescription medicine requires technical/medical knowle
 
 I will only administer prescription medication to the child if it is prescribed for by a doctor, dentist, nurse or pharmacist and has that child’s name on the prescription label.
 
-I will only administer non-prescription medication such as pain and fever relief (i.e. Calpol or Nurofen) with parents’ previous written consent and only when there is a health reason to do so. Verbal or written consent (including text message) will be requested for administering of non-prescription medicines on each occasion.
+I will only administer non-prescription medication such as pain and fever relief (i.e. Calpol or Nurofen) with parents’ previous written consent and only when there is a health reason to do so. Pain/Fever relief medication will not be administered within four hours of arriving at the setting - this is to ensure the maximum dose is never exceeded. Verbal or written consent (including text message) will be requested for administering of non-prescription medicines on each occasion.
 
 I will never administer medicines containing aspirin to a child under the age of 16 unless prescribed by a doctor.
 
@@ -55,11 +55,11 @@ All consent forms and completed records will be stored securely in accordance wi
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>13th March 2019</td>
+      <td>13th March 2020</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>13th March 2020</td>
+      <td>13th March 2021</td>
     </tr>
   </tbody>
 </table>
