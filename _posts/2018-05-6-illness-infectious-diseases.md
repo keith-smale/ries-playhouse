@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Illness & Infectious Diseases
-date:   2018-05-06 17:39:27 +0100
+date:   2019-05-06 17:39:27 +0100
 name: illness
 description: A policy covering illness & infectios diseases.
 image:
@@ -42,7 +42,6 @@ I ensure that any animals on the premises are safe to be around children and do 
 
 I ensure that litter trays and pet food dishes are kept away from children.
 
-I have read and understand the illness and infectious diseases policy.
 
 <table class="table table-bordered mt-5 mb-5">
   <tbody>

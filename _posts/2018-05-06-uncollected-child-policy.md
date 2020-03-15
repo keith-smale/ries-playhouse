@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Uncollected Child Policy
-date:   2018-05-06 17:39:27 +0100
+date:   2019-05-06 17:39:27 +0100
 name: uncollected child
 description: Policy if a child is not collected
 image:
@@ -43,7 +43,7 @@ I may charge an additional fee for late collection as per my Fees and Admissions
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>6thh May 2019</td>
+      <td>6th May 2019</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
