@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Fee and Admissions Policy
-date:   2018-05-10 17:39:27 +0100
+date:   2019-05-10 17:39:27 +0100
 name: Fees
 description: Fees and Admissions
 image:

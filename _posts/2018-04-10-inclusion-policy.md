@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Inclusion Policy
-date:   2018-04-10 00:01:00 +0000
+date:   2019-04-10 00:01:00 +0000
 name: Inclusion
 description: Policy About Inclusion of Children
 image:
