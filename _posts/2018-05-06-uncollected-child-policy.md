@@ -43,11 +43,11 @@ I may charge an additional fee for late collection as per my Fees and Admissions
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>6th May 2019</td>
+      <td>6th May 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>6th May 2020</td>
+      <td>6th May 2022</td>
     </tr>
   </tbody>
 </table>
