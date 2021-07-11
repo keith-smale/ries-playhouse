@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Behaviour Policy
-date:   2019-05-06 17:39:27 +0100
+date:   2021-03-06 17:39:27 +0100
 name: Behaviour
 description: A policy covering the Behaviour of minded children.
 image:

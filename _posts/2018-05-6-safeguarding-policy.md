@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Safeguarding Policy
-date:   2019-05-06 17:39:27 +0100
+date:   2020-02-13 17:39:27 +0100
 name: Safeguarding
 description: A policy covering the Safeguarding of minded children.
 image:
