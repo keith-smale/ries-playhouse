@@ -16,23 +16,21 @@ It is my policy to ensure that parents are advised of the fees that I charge and
 As outlined in the 2017 EYFS (Early Years Foundation Stage) framework, I am restricted to the number and ages of children that I may care for at any one time. As part of my Ofsted registration I am able to care for six children under the age of 8 years, three of which may be under 5 years old and one of these may be under 1 year old.
 
 I drop off and pick up from the following settings and schools:
-+ Ducklings Preschool, Lambeth Road, Eastwood.
-+ Eastwood Primary School
-+ Eastwood Academy
++ Eastwood Primary School & Nursery
 
 ###### **Opening Hours**
 
-My setting is open during these times:  
-  Monday to Friday, 7am to 6pm  
+My setting is open during these times, all year round but excluding public holidays:  
+  Monday to Friday, 8am to 6pm  
 
 ###### **Childcare and Early Education Entitlements**
 
 I offer the following:  
-  the universal entitlement for all 3- and 4-year-olds;   
-  the extended entitlement for eligible 3- and 4-year-olds with working parents;  
-  and the 2-year-old entitlement.  
+  universal entitlement for all 3- and 4-year-olds;   
+  extended entitlement for eligible 3- and 4-year-olds with working parents;  
+  2-year-old entitlement.  
 
-I offer funded spaces either term time only or using stretched funding – whichever is more appropriate for you.
+Funded spaces are available term time only. If you require childcare during the school holidays, it will be charged at my full hourly rate of £5.50 per hour.
 
 I claim funding from the local authority for your child after having seen evidence to verify their date of birth at our initial meeting. Parents will be required to fully complete a Parent Declaration Form in order for me to claim any funding and deliver the funded care.
 
@@ -47,10 +45,11 @@ If you take your child out of my setting during funded hours then I am not requi
 ###### **Fees**
 
 Hourly rate £5.50
+Please note this includes breakfast, if required, and snacks. I do not provide lunch or dinner. If your child requires lunch or dinner during their time in the setting, please provide it with them each day.
 
 ###### **Additional Charges**
 
-I make a charge for certain additional services. These are listed below:
+I may make a charge for certain additional services. These are listed below:
 + consumables (i.e. meals)
 + day trips where an entrance fee is charged
 
@@ -67,7 +66,7 @@ There may be times that other fees are added to your monthly invoice. These may 
 ###### **Payment**
 
 Payment is required monthly, in advance.
-I will invoice you at the beginning of each month, on or around the 1st.
+I will invoice you at the beginning of each month, on or around the 28th, in respect of the month ahead.
 My preferred mode of payment is bank transfer. Details will be on your invoice.
 
 ###### **Holidays and Unplanned Absences**
@@ -82,6 +81,8 @@ If I have to close my setting at short notice, for example because of sickness o
 
 For further information see my illness and infectious diseases policy and/or ask me for details on my emergency backup arrangements, which are listed on my Accident, Incident and Emergency procedures.
 
+If your child is unable to attend the setting due to sickness, full fees are payable in advance as usual and no refunds will be given.
+
 <table class="table table-bordered mt-5 mb-5">
   <tbody>
     <tr>
@@ -94,11 +95,11 @@ For further information see my illness and infectious diseases policy and/or ask
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>20th May 2019</td>
+      <td>20th August 2020</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>20th May 2020</td>
+      <td>20th August 2021</td>
     </tr>
   </tbody>
 </table>
