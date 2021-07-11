@@ -27,7 +27,7 @@ I also have an arrangement with another registered childminder/responsible adult
 If there is an accident to a minded child or my own children:
 + First, I reassure the injured child while making sure that the other children in my care are safe. This may mean strapping a baby in a buggy or sitting an older child somewhere safe where I can see them.
 + Then, if the accident is a minor one and requires only basic first aid, I deal with it myself. If not, I will ring 999 (or 112 from a mobile) for help.
-+ If I have to accompany or take a child to hospital, I will either take the other children with me, or call my emergency back-up cover. This will be another registered childminder or known responsible adult. These people will be made known to parents at the settling-in visit and are named below.
++ If I have to accompany or take a child to hospital, I will either take the other children with me, or call my emergency back-up cover. This will be another registered childminder or known responsible adult. These people will be made known to parents at the settling-in visit.
 
 If there is an accident, my emergency back-up cover may contact you and you will be expected to collect your child straight away.
 
