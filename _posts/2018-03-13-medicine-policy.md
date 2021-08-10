@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Medicine Policy
-date:   2020-03-13 12:39:27 +0100
+date:   2021-03-13 12:39:27 +0100
 name: Medicine
 description: A policy covering the provision of medication to minded children.
 image:
@@ -25,11 +25,12 @@ I will work in partnership with parents to ensure the correct medication and dos
 I will store all medicines safely in the kitchen, out of reach of the children and strictly in accordance with the product instructions (which may require refrigeration in a sealed container away from food) and in the original container in which 
 it was dispensed.
 
-If the administration of prescription medicine requires technical/medical knowledge then I will attend the relevant training from a qualified health professional. The training will be specific to the child in question.
+If the administration of prescription medicine requires technical/medical knowledge then I will attend the relevant training from a qualified health professional. The training will be specific to the child in question. For short term medication, relevant training may not be possible so it may be that the child needs to be kept home for a short period, or the parent administer the medication required.
 
 I will only administer prescription medication to the child if it is prescribed for by a doctor, dentist, nurse or pharmacist and has that child’s name on the prescription label.
 
-I will only administer non-prescription medication such as pain and fever relief (i.e. Calpol or Nurofen) with parents’ previous written consent and only when there is a health reason to do so. Pain/Fever relief medication will not be administered within four hours of arriving at the setting - this is to ensure the maximum dose is never exceeded. Verbal or written consent (including text message) will be requested for administering of non-prescription medicines on each occasion.
+I will only administer non-prescription medication such as pain and fever relief (i.e. Calpol or Nurofen) with parents’ previous written consent and only when there is a health reason to do so. Verbal or written consent (including text message) will be requested for administering of non-prescription medicines on each occasion.
+Calpol/Nurofen will be administered no earlier than 4 hours after arriving at the setting. If you feel your child requires a dose sooner than this, you will need to keep your child at home until the next dose is given, or keep them home entirely for that session. This will be discussed on an individual basis, on each occasion of requiring this medicine.
 
 I will never administer medicines containing aspirin to a child under the age of 16 unless prescribed by a doctor.
 
@@ -37,9 +38,9 @@ In an emergency situation, if I do not administer the medicine whilst the child 
 
 If a dose is missed this will be recorded and the parents informed. Children cannot be forced to take medication so in the event of a refusal this will be recorded and parents will be contacted.
 
-If I have a child in my care with long-term medical needs then I will ensure that I have sufficient information about the child’s medical condition and will work in partnership with parents and any other health professionals to assist the administration of any prescribed medication and the management of any other health needs such as a gastrostomy tube.
+If I have a child in my care with long-term medical needs then I will ensure that I have sufficient information about the child’s medical condition and will work in partnership with parents and any other health professionals to assist the administration of any prescribed medication and the management of any other health needs.
 
-If a child has medication that they administer themselves at my setting (such as an asthma inhaler) then I will ask them to tell me so that it can be recorded. Full details of the medication and the child’s requirements for it will be recorded in the Accident, Incident and Medication folder, and the parent will sign to give consent for the child to self medicate.
+If a child has medication that they administer themselves at my setting (such as an asthma inhaler), I will ask them to tell me so that it can be recorded. Full details of the medication and the child’s requirements for it will be recorded in the Accident, Incident and Medication folder, and the parent will sign to give consent for the child to self medicate.
 
 All consent forms and completed records will be stored securely in accordance with my confidentiality policy.
 
@@ -55,11 +56,11 @@ All consent forms and completed records will be stored securely in accordance wi
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>13th March 2020</td>
+      <td>13th March 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>13th March 2021</td>
+      <td>13th March 2022</td>
     </tr>
   </tbody>
 </table>

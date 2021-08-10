@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Inclusion Policy
-date:   2019-04-10 00:01:00 +0000
+date:   2021-02-10 00:01:00 +0000
 name: Inclusion
 description: Policy About Inclusion of Children
 image:
@@ -49,11 +49,11 @@ I will regularly review, monitor and evaluate my practice and keep up to date by
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>10th April 2019</td>
+      <td>10th March 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>10th April 2020</td>
+      <td>10th March 2022</td>
     </tr>
   </tbody>
 </table>

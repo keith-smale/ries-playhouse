@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Behaviour Policy
-date:   2019-05-06 17:39:27 +0100
+date:   2021-03-06 17:39:27 +0100
 name: Behaviour
 description: A policy covering the Behaviour of minded children.
 image:
@@ -54,11 +54,11 @@ If I have concerns about a child’s behaviour, which I cannot resolve in partne
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>6th May 2019</td>
+      <td>6th March 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>6th May 2020</td>
+      <td>6th March 2022</td>
     </tr>
   </tbody>
 </table>

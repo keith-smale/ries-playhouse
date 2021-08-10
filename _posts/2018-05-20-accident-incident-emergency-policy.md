@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Accident & Emergency Policy
-date:   2019-05-20 17:39:27 +0100
+date:   2021-05-20 17:39:27 +0100
 name: accident emergency policy
 description: Accident and Emergency Policy
 image:
@@ -27,7 +27,7 @@ I also have an arrangement with another registered childminder/responsible adult
 If there is an accident to a minded child or my own children:
 + First, I reassure the injured child while making sure that the other children in my care are safe. This may mean strapping a baby in a buggy or sitting an older child somewhere safe where I can see them.
 + Then, if the accident is a minor one and requires only basic first aid, I deal with it myself. If not, I will ring 999 (or 112 from a mobile) for help.
-+ If I have to accompany or take a child to hospital, I will either take the other children with me, or call my emergency back-up cover. This will be another registered childminder or known responsible adult. These people will be made known to parents at the settling-in visit and are named below.
++ If I have to accompany or take a child to hospital, I will either take the other children with me, or call my emergency back-up cover. This will be another registered childminder or known responsible adult. These people will be made known to parents at the settling-in visit.
 
 If there is an accident, my emergency back-up cover may contact you and you will be expected to collect your child straight away.
 
@@ -84,11 +84,11 @@ Should an emergency occur that requires me to leave the setting, the following p
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>20th May 2019</td>
+      <td>20th May 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>20th May 2020</td>
+      <td>20th May 2022</td>
     </tr>
   </tbody>
 </table>

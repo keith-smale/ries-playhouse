@@ -1,7 +1,7 @@
 ---
 layout: policy
 title:  Complaints Policy
-date:   2019-05-20 17:39:27 +0100
+date:   2021-05-20 17:39:27 +0100
 name: complaints
 description: Policy about Complaints
 image:
@@ -18,7 +18,8 @@ I display Ofsted’s poster for parents, which introduces Ofsted's childcare res
 You can complain or compliment my service to Ofsted by calling: **0300 123 1231**
 
 Or you can write to :  
-  Applications, Regulatory and Contact (ARC) Team Ofsted  
+  Applications, Regulatory and Contact (ARC) Team
+  <br>Ofsted  
   Piccadilly Gate  
   Store Street  
   Manchester M1 2WD  
@@ -59,11 +60,11 @@ Ofsted produces guidance on concerns and complaints about childminders and child
     </tr>
     <tr>
       <th scope="row">Date the Policy was Last Reviewed</th>
-      <td>20th May 2019</td>
+      <td>20th May 2021</td>
     </tr>
     <tr>
       <th scope="row">Date the Policy is Due for Review</th>
-      <td>20th May 2020</td>
+      <td>20th May 2022</td>
     </tr>
   </tbody>
 </table>
